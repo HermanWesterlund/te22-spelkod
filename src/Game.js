@@ -1,4 +1,4 @@
-import GameObject from "./GameObject"
+import GameObject from "./GameObject.js"
 
 export default class game {     //skapar klassen
     constructor(width, height) {    //klassens konstruktor
