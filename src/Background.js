@@ -7,7 +7,7 @@ export default class Background {
         this.height = 720 // this.game.height
         
         this.bg = new Image()
-        this.bg.src = "./src/assets/bedroom background.png"
+        this.bg.src = "/images/bedroom background.png"
 
         this.backgroundLayers = [
             new Layer(this.game, this.width, this.height, 0, this.bg, 0, 0),
