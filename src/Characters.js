@@ -8,9 +8,12 @@ export default class Characters {
         
         this.rudolf = new Image()
         this.rudolf.src = "./src/assets/rudolf_rod_mule_transparent.png"
+        this.dialogueSqr = new Image()
+        this.dialogueSqr.src = "src/assets/dialogue window.png" 
 
         this.backgroundLayers = [
             new Layer(this.game, this.width, this.height, 0, this.rudolf, -235, 0),
+            new Layer(this.game, 640, 180, 0, this.dialogueSqr, 0, 540),
         ]
     }
   

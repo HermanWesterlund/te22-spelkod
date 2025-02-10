@@ -7,7 +7,7 @@ const setup = (canvas) => {
     canvas.width = 1280 // sätt bredden på canvas
     canvas.height = 720 // sätt höjden på canvas
   
-    const game = new Game(canvas.width, canvas.height)
+    const game = new Game(canvas)
     let lastTime = 0
 
     const animate = (timeStamp) => {
