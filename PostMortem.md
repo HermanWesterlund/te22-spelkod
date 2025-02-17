@@ -40,3 +40,11 @@
    hur daten hade gått. Den näst sista lektionen spenderade jag genom att skapa interessanta dialoger och
    val, och att konstruera flera slut. Den sista lektionen spenderade jag helt och hållet med att försöka
    hosta spelet på github, vilket var svårt, men med hjälp från läraren så lyckades jag till slut.
+
+   Det var en förfärlig idé att försöka göra en dating simulator när vi byggde motorn för att göra
+   platformer spel eller liknande, men jag är ändå glad att vi gjorde det, för jag har lärt mig
+   mycket mer om javascript än vad jag hade gjort om jag valt att göra något enklare.
+   I slutändan så tycker jag att det enda som egentligen gick fel med projektet var att vi
+   underskattade hur svårt det skulle bli att göra ett spel i javascript och i en egen motor,
+   så vi satte våra ambitioner väligt högt och hann inte med allt, men det som vi faktiskt hann
+   med att göra blev ganska bra tycker jag.
